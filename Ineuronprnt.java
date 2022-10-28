@@ -28,7 +28,7 @@ public class Ineuronprnt {
 				}
 				System.out.print(" ");
 				
-//				For E.
+                //For E.
 				for (int i=0;i<n;i++) {
 					if(i==0 ||
 							j==0 ||
@@ -90,7 +90,13 @@ public class Ineuronprnt {
 						System.out.print(" ");
 					}
 				}
-				System.out.print("                 ");
+				System.out.print(" ");
+			
+			System.out.println();	
+			
+			}
+			System.out.println();
+		for(int j=0;j<n;j++) {
 				
 //				For writing My name i.e for Letter 'G'.
 				for (int i=0;i<n;i++) {
@@ -171,9 +177,8 @@ public class Ineuronprnt {
 					}
 				}
 				System.out.print("  ");
-			
-			System.out.println();	
-			
+				
+				System.out.println();
 			}
 		}
 	}
